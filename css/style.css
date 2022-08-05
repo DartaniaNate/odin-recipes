@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 21px;
+
+}
+
+p {
+    color: orange;   
+}
+
+h1 {
+    font-size: 70px;
+    color: red;
+}
+
+span {
+    color: green;
+}
+
+.section1 {
+    background-color: gray;
+}
+
+.section2 {
+    background-color: azure;
+}
+.intro {
+    font-size: 30px;
+    color: blueviolet;
+}
+
+.highlight {
+    background-color: aqua;
+}
